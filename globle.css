@@ -1,0 +1,5 @@
+/* 導覽列 active 樣式設為藍色 */
+.nav-link.active, .navbar-brand.active {
+  color: #e66f1a !important;
+  font-weight: bold;
+}

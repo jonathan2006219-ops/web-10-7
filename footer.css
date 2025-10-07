@@ -1,0 +1,26 @@
+/* footer.css - 自訂頁尾樣式 */
+
+.footer {
+    background-color: #2d27e1; /* 深色背景 */
+    color: #ffffff; /* 白色文字 */
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.footer h4 {
+    color: #ffd900; /* 強調標題顏色 */
+}
+
+.footer a, .footer li {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #ffc107;
+    text-decoration: underline;
+}
+
+.custom-bg {
+    background: linear-gradient(90deg, #7c7575 60%, #787272 100%);
+}
